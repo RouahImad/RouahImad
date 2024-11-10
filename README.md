@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" alt="Computador IuriCode">
   <div id="badges">
       <a href="https://www.facebook.com/imade.rouah?mibextid=ZbWKwL">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
@@ -50,6 +50,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 <table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=rouahimad&theme=onedark" />
+    </td>
+  </tr>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=RouahImad&theme=dark&background=000000" alt="GitHub Streak" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=RouahImad&show_icons=true&theme=neon" alt="Vercel Stats" /></td>
