@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouahimad&layout=compact&theme=vision-friendly-dark" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouahimad&layout=compact&langs_count=5&card_width=420&theme=dracula" />
     </td>
   </tr>
 </table>
