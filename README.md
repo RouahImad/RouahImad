@@ -49,8 +49,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rouahimad&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rouahimad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=RouahImad&theme=dark&background=000000" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=RouahImad&show_icons=true&theme=neon" alt="Vercel Stats" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouahimad&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 <!--
 
