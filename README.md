@@ -56,7 +56,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=rouahimad&theme=onedark" />
+      <img src="https://github-profile-trophy.vercel.app/?username=rouahimad&theme=onedark&row=2&column=3" />
     </td>
   </tr>
   <tr>
