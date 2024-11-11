@@ -7,6 +7,9 @@
       <a href="https://www.instagram.com/the_mad_visionary?igsh=MTY3cTV3cTJpNzlzOA==">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
+      <a href="https://www.linkedin.com/in/imad-rouah-94273b244/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=rouahimad" alt=""/>
   <h1>
@@ -18,17 +21,18 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRrc3lxMHc3dW5wd2lvYndleXp4M3htanRvbDg1NjBsNDR6ZG5tZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300">
 </div>
 
----
-
 ### :man_technologist: About Me :
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
 - :telescope: I study Software Engineering at a university in Fes
 - :zap: In my free time, I like searching for designs to get inspiration.
 - :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/gmail-orange?style=flat&logo=email&logoColor=white)](mailto:irouah2@gmail.com)
 - 🌱 I’m currently learning ReactJS.
----
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
@@ -44,11 +48,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="45" height="45"/>&nbsp;
-</div>
+</div> 
+<br>
 
----
-
-### :fire: My Stats :
+### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My Stats :
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <table>
   <tr>
     <td colspan="2" align="center">
