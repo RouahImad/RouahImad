@@ -33,21 +33,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJs" alt="ReactJs" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="axios" alt="axios" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="Jquery" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="Json"  alt="Json" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php"  alt="Php" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs"  alt="Nodejs" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="expressJs"  alt="expressJs" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" alt="Ubuntu" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,php,git,github,vscode,postman,linux,ubuntu" />&nbsp;
 </div> 
 <br>
 
