@@ -50,7 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
       <img src="https://github-profile-trophy.vercel.app/?username=rouahimad&theme=onedark&row=2&column=4" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouahimad&layout=compact&langs_count=5&card_width=500&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rouahimad&layout=compact&card_width=500&theme=dracula" />
     </td>
   </tr>
   <tr>
