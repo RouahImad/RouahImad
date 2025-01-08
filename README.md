@@ -25,10 +25,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
-- :telescope: I study Software Engineering at a university in Fes
+- :telescope: I study Software Engineering at a university in Fes.
 - :zap: In my free time, I like searching for designs to get inspiration.
 - :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/gmail-orange?style=flat&logo=email&logoColor=white)](mailto:irouah2@gmail.com)
 - 🌱 I’m currently learning TypeScript and MongoDB.
+- 🎓 I am currently focused on my FYP.
 <br>
 
 ### :hammer_and_wrench: Languages and Tools :
