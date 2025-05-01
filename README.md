@@ -36,7 +36,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,materialui,tailwindcss" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,materialui,tailwind" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="axios" alt="axios" width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,php" />&nbsp;
   <br/>
