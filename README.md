@@ -28,15 +28,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I study Software Engineering at a university in Fes.
 - :zap: In my free time, I like searching for designs to get inspiration.
 - :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/gmail-orange?style=flat&logo=email&logoColor=white)](mailto:irouah2@gmail.com)
-- 🌱 I’m currently learning TypeScript and MongoDB.
-- 🎓 I am currently focused on my FYP.
+- 🌱 I’m currently learning Tailwind CSS.
+- 🎓 I am currently focused on my internship.
 <br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,materialui" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,materialui,tailwindcss" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="axios" alt="axios" width="45" height="45"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,php" />&nbsp;
   <br/>
