@@ -38,6 +38,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,materialui,tailwind" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="axios" alt="axios" width="45" height="45"/>&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery,zustand&titles=true" />&nbsp;
+  <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,php" />&nbsp;
   <br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,cs" />&nbsp;
