@@ -28,8 +28,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I study Software Engineering at a university in Fes.
 - :zap: In my free time, I like searching for designs to get inspiration.
 - :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/gmail-orange?style=flat&logo=email&logoColor=white)](mailto:irouah2@gmail.com)
-- 🌱 I’m currently learning Tailwind CSS.
-- 🎓 I am currently focused on my internship.
+- 🌱 I’m currently learning Zustand.
+- 🎓 I am currently focused on my career.
 <br>
 
 ### :hammer_and_wrench: Languages and Tools :
