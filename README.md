@@ -55,12 +55,6 @@ Tools: Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Wi
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,visualstudio,postman,linux,ubuntu,windows" />&nbsp;
 </div>
 
-**Tech Stack:**
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, jQuery, React, Material-UI, Tailwind CSS, Axios, React Query, Zustand
-- **Backend:** Node.js, Express, MySQL, MongoDB, PHP
-- **Programming Languages:** C, C++, Java, C#
-- **Tools & Platforms:** Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Windows 
-
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My Stats :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <table>
