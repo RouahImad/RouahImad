@@ -35,6 +35,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :hammer_and_wrench: Languages and Tools :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Tech Stack (Machine Readable) -->
+<!-- 
+Frontend: HTML, CSS, JavaScript, TypeScript, jQuery, React, Material-UI, Tailwind CSS, Axios, React Query, Zustand
+Backend: Node.js, Express, MySQL, MongoDB, PHP
+Programming Languages: C, C++, Java, C#
+Tools: Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Windows
+-->
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,jquery,react,materialui,tailwind" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="axios" alt="axios" width="45" height="45"/>&nbsp;
@@ -45,7 +53,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://skillicons.dev/icons?i=c,cpp,java,cs" />&nbsp;
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,visualstudio,postman,linux,ubuntu,windows" />&nbsp;
-</div> 
+</div>
+
+**Tech Stack:**
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, jQuery, React, Material-UI, Tailwind CSS, Axios, React Query, Zustand
+- **Backend:** Node.js, Express, MySQL, MongoDB, PHP
+- **Programming Languages:** C, C++, Java, C#
+- **Tools & Platforms:** Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Windows 
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My Stats :
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
