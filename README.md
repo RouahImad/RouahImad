@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" alt="Computador IuriCode">
   <div id="badges">
-      <a href="https://www.facebook.com/imade.rouah?mibextid=ZbWKwL">
+      <a href="https://www.facebook.com/imade.rouah?mibextid=ZbWKwL" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
       </a>
-      <a href="https://www.instagram.com/the_mad_visionary?igsh=MTY3cTV3cTJpNzlzOA==">
+      <a href="https://www.instagram.com/the_mad_visionary?igsh=MTY3cTV3cTJpNzlzOA==" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
-      <a href="https://www.linkedin.com/in/imad-rouah-94273b244/">
+      <a href="https://www.linkedin.com/in/imad-rouah-94273b244/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
   </div>
@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I study bachelor's degree in Software Engineering at a university in Fes.
 - :zap: In my free time, I like searching for designs and concepts to get inspiration.
 - :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/gmail-orange?style=flat&logo=email&logoColor=white)](mailto:imadrouah.dev@gmail.com)
-- 🌱 I’m currently mastering Zustand.
+- 🌱 I’m currently mastering Software Testing and CI/CD.
 - 🎓 I am currently focused on my career.
 <br>
 
