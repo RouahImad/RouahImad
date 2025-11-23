@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" alt="Computador IuriCode">
   <div id="badges">
-      <a href="https://www.facebook.com/imade.rouah?mibextid=ZbWKwL" target="_blank">
+      <a href="https://www.facebook.com/imade.rouah" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
       </a>
-      <a href="https://www.instagram.com/the_mad_visionary?igsh=MTY3cTV3cTJpNzlzOA==" target="_blank">
+      <a href="https://www.instagram.com/the_mad_visionary" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
       <a href="https://www.linkedin.com/in/imad-rouah-94273b244/" target="_blank">
@@ -14,12 +14,18 @@
         <img src="https://img.shields.io/badge/Portfolio-c5ff00?style=for-the-badge" />
       </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=rouahimad" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=rouahimad" alt=""/>
+    <a href="https://user-badge.committers.top/morocco/RouahImad">
+      <img src="https://user-badge.committers.top/morocco/RouahImad.svg" alt="committers.top badge">
+    </a>
+  </div>
+  <div>
+    <h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Imad Rouah</h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=60eff3&center=true&vCenter=true&width=435&lines=ReactJS+Web+Developer;Software+Engineering;Crafting+Modern+UI%2FUX;Full+Stack+Solutions" alt="Typing SVG" />
+  </div>
 </div>
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemRrc3lxMHc3dW5wd2lvYndleXp4M3htanRvbDg1NjBsNDR6ZG5tZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300">
 </div>
