@@ -7,7 +7,7 @@
       <a href="https://www.instagram.com/the_mad_visionary" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
-      <a href="https://www.linkedin.com/in/imad-rouah-94273b244/" target="_blank">
+      <a href="https://www.linkedin.com/in/imad-rouah/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       <a href="https://imadr.vercel.app/" target="_blank">
