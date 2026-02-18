@@ -59,7 +59,7 @@ Tools: Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Wi
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,php" />&nbsp;
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,maven" />&nbsp;
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,visualstudio,postman,linux,ubuntu,windows" />&nbsp;
 </div>
