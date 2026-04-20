@@ -16,9 +16,9 @@
   </div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=rouahimad" alt=""/>
-    <a href="https://user-badge.committers.top/morocco/RouahImad">
+    <!-- <a href="https://user-badge.committers.top/morocco/RouahImad">
       <img src="https://user-badge.committers.top/morocco/RouahImad.svg" alt="committers.top badge">
-    </a>
+    </a> -->
   </div>
   <div>
     <h1 >Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Imad Rouah</h1>
