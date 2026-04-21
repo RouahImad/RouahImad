@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- Tech Stack (Machine Readable) -->
 <!-- 
 Frontend: HTML, CSS, JavaScript, TypeScript, jQuery, React, Material-UI, Tailwind CSS, Axios, React Query, Zustand
-Backend: Node.js, Express, MySQL, MongoDB, PHP
+Backend: Node.js, Express, MySQL, MongoDB, PHP, Spring boot, docker
 Programming Languages: C, C++, Java, C#
 Tools: Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Windows
 -->
@@ -57,11 +57,13 @@ Tools: Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Wi
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="axios" alt="axios" width="45" height="45"/>&nbsp;
   <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery,zustand&titles=true" />&nbsp;
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,php" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,php,docker" />&nbsp;
   <br/>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,maven" />&nbsp;
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,visualstudio,postman,linux,ubuntu,windows" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,vscode,visualstudio,postman,linux,ubuntu,windows" />&nbsp;
 </div>
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My Stats :
