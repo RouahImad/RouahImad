@@ -59,9 +59,9 @@ Tools: Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Wi
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png"/>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,php,docker" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,php,docker,npm,pnpm,maven" />&nbsp;
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,maven" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs" />&nbsp;
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,vscode,visualstudio,postman,linux,ubuntu,windows" />&nbsp;
 </div>
