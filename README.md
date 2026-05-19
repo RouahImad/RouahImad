@@ -61,9 +61,9 @@ Tools: Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Wi
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png"/>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,php,docker,githubactions,npm,pnpm,maven" />&nbsp;
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,vscode,postman" />&nbsp;
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,firebase,vscode,visualstudio,postman,linux,ubuntu,windows" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio,c,cpp,java,cs,linux,ubuntu,windows" />&nbsp;
 </div>
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> My Stats :
