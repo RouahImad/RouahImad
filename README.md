@@ -79,7 +79,7 @@ Tools: Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Wi
   </tr>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=RouahImad&theme=dark&background=000000" alt="GitHub Streak" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=RouahImad&show_icons=true&theme=neon&cache_seconds=86400" alt="Vercel Stats" /></td>
+    <td><img src="https://github-rating.vercel.app/api?username=RouahImad&show_icons=true&theme=neon&cache_seconds=86400" alt="Vercel Stats" /></td>
   </tr>
 </table>
 
