@@ -38,7 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: In my free time, I like searching for designs and concepts to get inspiration.
 - :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/gmail-orange?style=flat&logo=email&logoColor=white)](mailto:imadrouah.dev@gmail.com)
 - 🌱 I’m currently mastering Software Testing and CI/CD.
-- 🎓 I am currently focused on my career.
+- 🎓 Currently focused on my career.
 <br>
 
 ### :hammer_and_wrench: Languages and Tools :
