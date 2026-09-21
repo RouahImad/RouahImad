@@ -37,7 +37,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I graduated with a bachelor's degree in Software Engineering from EST in Fes.
 - :zap: In my free time, I like searching for designs and concepts to get inspiration.
 - :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/gmail-orange?style=flat&logo=email&logoColor=white)](mailto:imadrouah.dev@gmail.com)
-- 🌱 I’m currently mastering Software Testing and CI/CD.
+- 🌱 I’m currently mastering BullMq and CI/CD.
 - 🎓 Currently focused on my career.
 <br>
 
