@@ -82,10 +82,3 @@ Tools: Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Wi
     <td><img src="https://github-rating.vercel.app/api?username=RouahImad&show_icons=true&theme=neon&cache_seconds=86400" alt="Vercel Stats" /></td>
   </tr>
 </table>
-
-<!--
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
