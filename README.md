@@ -74,11 +74,11 @@ Tools: Git, GitHub, Firebase, VS Code, Visual Studio, Postman, Linux, Ubuntu, Wi
       <img src="https://github-profile-trophy.vercel.app/?username=rouahimad&theme=onedark&row=2&column=4" />
     </td>
     <td>
-      <img src="https://github-rating.vercel.app/api/top-langs/?username=rouahimad&layout=compact&card_width=470&langs_count=13&theme=dracula" />
+      <img src="https://personal-ghxrating.vercel.app/api/top-langs/?username=rouahimad&layout=compact&card_width=470&langs_count=13&theme=dracula" />
     </td>
   </tr>
   <tr>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=RouahImad&theme=dark&background=000000" alt="GitHub Streak" /></td>
-    <td><img src="https://github-rating.vercel.app/api?username=RouahImad&show_icons=true&theme=neon&cache_seconds=86400" alt="Vercel Stats" /></td>
+    <td><img src="https://personal-ghxrating.vercel.app/api?username=RouahImad&show_icons=true&theme=neon&cache_seconds=86400" alt="Vercel Stats" /></td>
   </tr>
 </table>
